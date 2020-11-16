@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\dom6\dom6\bin\Debug\dom6.exe.config
+C:\Users\Daniel\source\repos\dom6\dom6\bin\Debug\dom6.exe
+C:\Users\Daniel\source\repos\dom6\dom6\bin\Debug\dom6.pdb
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.Form1.resources
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.Properties.Resources.resources
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.exe
+C:\Users\Daniel\source\repos\dom6\dom6\obj\Debug\dom6.pdb
